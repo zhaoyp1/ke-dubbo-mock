@@ -1,4 +1,4 @@
-package com.ke.qa.mockserver.linkdubbomock;
+package com.ke.qa.mockserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

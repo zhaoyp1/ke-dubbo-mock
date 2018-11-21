@@ -1,4 +1,4 @@
-package com.ke.qa.mockserver.linkdubbomock;
+package com.ke.qa.mockserver.ke.dubbo.mock;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
